@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 596706077
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d292ff1b3b0c8bca66a53e6e7068833
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ecbf41a0f317fdb5fd39c45eeb6fb6d0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9d292ff1b3b0c8bca66a53e6e7068833
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d141188192825b4e14618c5473b5e47, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sprite/PeaShooter_frontleaf_lefttip.asset
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/1779508297999.prefab
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 31 \u62F7\u8D1D.asset"
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42109.asset"
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42113.asset"
+- Assets/Texture2D/plantshadow.png
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 45.asset"
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/mmexport1779515297723_edit_225530974692402.asset
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/1779508297999.png
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42114.asset"
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42115.asset"
+- Assets/Texture2D/sactx-0-2048x2048-DXT5_BC3-PlantAtlas-3c439fdc.png
+- Assets/Sprite/SnowGatling_mouth_overlay.asset
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/supershoot.anim
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 31 \u62F7\u8D1D
+  5.asset"
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 31 \u62F7\u8D1D
+  3.asset"
+- Assets/Sprite/plantshadow.asset
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 46.asset"
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u673A\u67AA\u8138.asset"
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/SuperSnowGatling.asset
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 30.asset"
+- Assets/Sprite/PeaShooter_backleaf.asset
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 31 \u62F7\u8D1D
+  2.asset"
+- Assets/Sprite/PeaShooter_stalk_top.asset
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C4278.asset"
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 33.asset"
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C4279.asset"
+- Assets/Sprite/SuperSnowGatling_helmet.asset
+- Assets/Sprite/PeaShooter_frontleaf.asset
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C4284.asset"
+- Assets/Sprite/PeaShooter_backleaf_righttip.asset
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C4285.asset"
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42110.asset"
+- Assets/Sprite/SuperSnowGatling_barrel.asset
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/idle.anim
+- Assets/Texture2D/sactx-1-2048x2048-DXT5_BC3-PlantAtlas-3c439fdc.png
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/UltimateStarGatlingPrefab.prefab
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/SuperSnowGatling.png
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/UltimateStarGatlingPreview.prefab
+- Assets/Sprite/PeaShooter_backleaf_lefttip.asset
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/shoot.anim
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/SuperSnowGatling.controller
+- Assets/Sprite/PeaShooter_frontleaf_righttip.asset
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 31 \u62F7\u8D1D
+  4.asset"
+- Assets/Sprite/SuperSnowGatling_barrel2.asset
+- Assets/Sprite/SuperSnowGatling_head.asset
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42116.asset"
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 31.asset"
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/1779508297999 Skeleton.asset
+- Assets/resources/plants/gatlingpeapot/ultimatestargatling/mmexport1779515297723_edit_225530974692402.png
+- Assets/Sprite/SnowGatling_mouth.asset
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 32.asset"
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42127.asset"
+- Assets/Sprite/PeaShooter_stalk_bottom.asset
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 48.asset"
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42112.asset"
+- Assets/Sprite/SuperSnowGatling_blink1.asset
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 34.asset"
+- Assets/Sprite/SuperSnowGatling_blink2.asset
+- "Assets/resources/plants/gatlingpeapot/ultimatestargatling/\u56FE\u5C42 47.asset"
+- Assets/Sprite/SuperSnowGatling_hair.asset
+Dependencies: []
